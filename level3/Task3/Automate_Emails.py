@@ -1,7 +1,6 @@
 import os
 import smtplib
 import ssl
-from email.message import EmailMessage
 from email.utils import formataddr
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
