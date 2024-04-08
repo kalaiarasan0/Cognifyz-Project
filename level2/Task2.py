@@ -12,7 +12,7 @@ def guess_number(minimum, maximum):
     
     
     print(f"Welcome to the Number Guessing Game! Guess a number between {minimum} and {maximum}.")
-    print("Keep in mind you have 10 Attempts Only!")
+    print("Keep in mind you have 15 Attempts Only!")
 
     attempts = 0
     

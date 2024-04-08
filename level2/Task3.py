@@ -22,7 +22,7 @@ def password_strength(password):
             return "Weak: Password should contain at least one special character (!@#$%^&*(),.?\":{}|<>)."
         
         else:
-            return(f"Your {password} Password meets the eligibility criteria")
+            return(f"Your {password} Password seems to be strong")
     
 
 # Example usage

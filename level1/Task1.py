@@ -18,7 +18,7 @@ def rever(string):
    
     return rev_str
 
-my_str = "kalaia"
+my_str = str(input("Enter the word: "))
 
 a=rever(my_str)
 print(a)

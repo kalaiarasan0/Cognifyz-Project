@@ -50,10 +50,7 @@ while True:
         if choice.lower() not in ['yes','y']:
             break
         
-        opertion_from_value = input("Enter (Yes) if U want to Perform task with obtianed value otherwise (No): ")
-
-        if opertion_from_value.lower == 'yes' or 'y':
-                print(f"opration value {num1} ")
+        
         
 
     except ValueError:
